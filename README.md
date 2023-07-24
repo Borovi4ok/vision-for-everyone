@@ -1,6 +1,9 @@
-# vision-for-everyone
-# Light-eye: A Small Web Development Project
+# Vision-For-Everyone
+## Light-eye: A Small Web Development Project
 This repository hosts a small, single webpage project, "Light-eye", demonstrating proficiency in HTML5 and CSS3.
+
+## Screenshot
+![Project screenshot](https://github.com/Borovi4ok/vision-for-everyone/assets/116018918/de0911bb-8864-415a-a5cb-7b79cc3c5d2d)
 
 ## Project Description
 The webpage represents a fictitious eye-care service provider, "Light-eye", offering various eye-care services, and displays a catalogue of service offerings and prices. The HTML structure and CSS styling provide a clear, clean, and modern design with easy-to-navigate UI.
@@ -32,5 +35,8 @@ CSS3: Used for styling the webpage and creating a responsive design.
 ## How to Use
 To view the webpage, clone or download this repository and open the index.html file in your preferred web browser. You can also use live server extension if you're using Visual Studio Code for real-time display.
 
+Alternatively,for a better viewing experience, you can copy the following link which will render the HTML file: [Link Light-eye Project](https://github.com/Borovi4ok/vision-for-everyone/blob/main/page1/index.html) and use this service, [HTMLPreview.github.io](https://htmlpreview.github.io/), to render the HTML files directly from the GitHub repository.
+
 To modify the webpage or its styles, edit the index.html or index.css files, respectively, using a text editor.
+
 
